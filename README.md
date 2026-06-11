@@ -10,6 +10,7 @@ Lure scanners in. Capture credentials. Log every keystroke. Drop attackers into 
 
 [![Rust](https://img.shields.io/badge/rust-2024%20edition-orange?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Tokio](https://img.shields.io/badge/async-tokio-000?style=for-the-badge&logo=rust)](https://tokio.rs/)
+[![GitHub](https://img.shields.io/badge/repo-iAsuri%2Fyupot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iAsuri/yupot)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](#license)
 
 <br>
@@ -106,7 +107,7 @@ logs/
 ### Build & run
 
 ```bash
-git clone https://github.com/your-username/yupot.git
+git clone https://github.com/iAsuri/yupot.git
 cd yupot
 
 # Copy and edit the config
