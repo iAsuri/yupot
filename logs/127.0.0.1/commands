@@ -1,0 +1,287 @@
+asd
+asd
+asd
+as
+da
+sdapt install chromiuem
+y
+exit
+░ [0;38:5:245mSpawning container yufs on ]8;;file://weegee/home/yumeko/yupot/yufs\/home/yumeko/yupot/yufs]8;;\.[0m
+░ [0;38:5:245mPress [0;1;39mCtrl-][0;38:5:245m three times within 1s to kill container; two times followed by [0;1;39mr[0m
+░ [0;38:5:245mto reboot container; two times followed by [0;1;39mp[0;38:5:245m to poweroff container.[0m
+]3008;start=2da75ba422554ac2be89e53f338309fd;user=root;hostname=weegee;machineid=0a0b157790b04a5bbf3e9bd3b03559d0;bootid=56ffa0f315464b2abbc0a6ba911cd665;pid=110215;pidfdid=110216;comm=-q;container=yufs;type=container\]11;?\[22;2t]2;🔵 Container yufs on weegee\[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# ssaadd
+
+[?2004l-bash: sad: command not found
+[?2004hroot@yufs:~# aassdd
+
+[?2004l-bash: asd: command not found
+[?2004hroot@yufs:~# aapptt  iinnssttaallll  cchhrroommiiuumm
+
+[?2004lReading package lists... 0%Reading package lists... 100%                              Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%                                Reading state information... 0%Reading state information... 1%                                Installing:
+[32m  chromium
+[0m
+Installing dependencies:
+[32m  adwaita-icon-theme            liblcms2-2
+  alsa-topology-conf            libldb2
+  alsa-ucm-conf                 liblerc4
+  at-spi2-common                libllvm19
+  at-spi2-core                  liblmdb0
+  avahi-daemon                  liblwp-mediatypes-perl
+  avahi-utils                   liblwp-protocol-https-perl
+  chromium-common               libmailtools-perl
+  chromium-sandbox              libminizip1t64
+  cpp                           libmp3lame0
+  cpp-14                        libmpc3
+  cpp-14-x86-64-linux-gnu       libmpg123-0t64
+  cpp-x86-64-linux-gnu          libnet-dbus-perl
+  cups-pk-helper                libnet-http-perl
+  dbus                          libnet-smtp-ssl-perl
+  dbus-bin                      libnet-ssleay-perl
+  dbus-daemon                   libnotify4
+  dbus-session-bus-common       libnspr4
+  dbus-system-bus-common        libnss-mdns
+  dbus-user-session             libnss3
+  dconf-gsettings-backend       libogg0
+  dconf-service                 libopenh264-8
+  fontconfig                    libopenjp2-7
+  fontconfig-config             libopus0
+  fonts-dejavu-core             libpackagekit-glib2-18
+  fonts-dejavu-mono             libpam-systemd
+  fonts-liberation              libpango-1.0-0
+  fonts-liberation-sans-narrow  libpangocairo-1.0-0
+  gir1.2-atk-1.0                libpangoft2-1.0-0
+  gir1.2-freedesktop            libpangoxft-1.0-0
+  gir1.2-gdkpixbuf-2.0          libpciaccess0
+  gir1.2-girepository-2.0       libpixman-1-0
+  gir1.2-glib-2.0               libplist-2.0-4
+  gir1.2-gtk-3.0                libpng16-16t64
+  gir1.2-handy-1                libpolkit-agent-1-0
+  gir1.2-harfbuzz-0.0           libpolkit-gobject-1-0
+  gir1.2-notify-0.7             libpulse0
+  gir1.2-packagekitglib-1.0     librsvg2-2
+  gir1.2-pango-1.0              librsvg2-common
+  gir1.2-polkit-1.0             libsecret-1-0
+  gir1.2-secret-1               libsecret-common
+  gsettings-desktop-schemas     libsharpyuv0
+  gtk-update-icon-cache         libsm6
+  hicolor-icon-theme            libsmbclient0
+  libasound2-data               libsndfile1
+  libasound2t64                 libtalloc2
+  libasyncns0                   libtdb1
+  libatk-bridge2.0-0t64         libtevent0t64
+  libatk1.0-0t64                libthai-data
+  libatomic1                    libthai0
+  libatspi2.0-0t64              libtie-ixhash-perl
+  libauthen-sasl-perl           libtiff6
+  libavahi-client3              libtimedate-perl
+  libavahi-common-data          libtry-tiny-perl
+  libavahi-common3              libupower-glib3
+  libavahi-core7                liburi-perl
+  libcairo-gobject2             libusb-1.0-0
+  libcairo2                     libusbmuxd-2.0-7
+  libclone-perl                 libvorbis0a
+  libcloudproviders0            libvorbisenc2
+  libcolord2                    libvulkan1
+  libcups2t64                   libwayland-client0
+  libdaemon0                    libwayland-cursor0
+  libdata-dump-perl             libwayland-egl1
+  libdatrie1                    libwayland-server0
+  libdav1d7                     libwbclient0
+  libdbus-1-3                   libwebp7
+  libdconf1                     libwww-perl
+  libdeflate0                   libwww-robotrules-perl
+  libdouble-conversion3         libx11-protocol-perl
+  libdrm-amdgpu1                libx11-xcb1
+  libdrm-common                 libxaw7
+  libdrm-intel1                 libxcb-dri3-0
+  libdrm2                       libxcb-glx0
+  libduktape207                 libxcb-present0
+  libegl-mesa0                  libxcb-randr0
+  libegl1                       libxcb-render0
+  libencode-locale-perl         libxcb-shape0
+  libepoxy0                     libxcb-shm0
+  libfile-basedir-perl          libxcb-sync1
+  libfile-desktopentry-perl     libxcb-xfixes0
+  libfile-listing-perl          libxcomposite1
+  libfile-mimeinfo-perl         libxcursor1
+  libflac14                     libxdamage1
+  libfont-afm-perl              libxfixes3
+  libfontconfig1                libxft2
+  libfreetype6                  libxi6
+  libfribidi0                   libxinerama1
+  libgbm1                       libxkbcommon0
+  libgcrypt20                   libxkbfile1
+  libgdk-pixbuf-2.0-0           libxml-parser-perl
+  libgdk-pixbuf2.0-bin          libxml-twig-perl
+  libgdk-pixbuf2.0-common       libxml-xpathengine-perl
+  libgirepository-1.0-1         libxml2
+  libgl1                        libxmu6
+  libgl1-mesa-dri               libxnvctrl0
+  libgles2                      libxpm4
+  libglib2.0-0t64               libxrandr2
+  libglib2.0-data               libxrender1
+  libglvnd0                     libxshmfence1
+  libglx-mesa0                  libxt6t64
+  libglx0                       libxtst6
+  libgpg-error-l10n             libxv1
+  libgpg-error0                 libxxf86dga1
+  libgraphite2-3                libxxf86vm1
+  libgtk-3-0t64                 libz3-4
+  libgtk-3-bin                  luit
+  libgtk-3-common               mesa-libgallium
+  libgudev-1.0-0                mesa-vulkan-drivers
+  libhandy-1-0                  notification-daemon
+  libharfbuzz-gobject0          perl-openssl-defaults
+  libharfbuzz-subset0           polkitd
+  libharfbuzz0b                 python3-cairo
+  libhtml-form-perl             python3-cups
+  libhtml-format-perl           python3-cupshelpers
+  libhtml-parser-perl           python3-dbus
+  libhtml-tagset-perl           python3-gi
+  libhtml-tree-perl             python3-smbc
+  libhttp-cookies-perl          samba-libs
+  libhttp-daemon-perl           sgml-base
+  libhttp-date-perl             shared-mime-info
+  libhttp-message-perl          system-config-printer
+  libhttp-negotiate-perl        system-config-printer-common
+  libice6                       system-config-printer-udev
+  libicu76                      upower
+  libimobiledevice-1.0-6        usbmuxd
+  libimobiledevice-glue-1.0-0   x11-common
+  libio-compress-brotli-perl    x11-utils
+  libio-html-perl               x11-xserver-utils
+  libio-socket-ssl-perl         xdg-user-dirs
+  libio-stringy-perl            xdg-utils
+  libipc-system-simple-perl     xkb-data
+  libisl23                      xml-core
+  libjbig0                      zutty
+  libjpeg62-turbo
+[0m
+Suggested packages:
+  adwaita-icon-theme-legacy  low-memory-monitor     libmime-base32-perl
+  avahi-autoipd              gvfs                   libregexp-ipv6-perl
+  chromium-l10n              libusbmuxd-tools       libauthen-ntlm-perl
+  chromium-shell             liblcms2-utils         libunicode-map8-perl
+  chromium-driver            libcrypt-ssleay-perl   libunicode-string-perl
+  cpp-doc                    avahi-autoipd          xml-twig-tools
+  gcc-14-locales             | zeroconf             debhelper
+  cpp-14-doc                 opus-tools             python-dbus-doc
+  alsa-utils                 libcryptsetup12        sgml-base-doc
+  libasound2-plugins         libtss2-rc0t64         gnome-software
+  libdigest-hmac-perl        pciutils               mesa-utils
+  libgssapi-perl             pulseaudio             nickle
+  colord                     librsvg2-bin           cairo-5c
+  cups-common                libsub-name-perl       xorg-docs-core
+  rng-tools                  libbusiness-isbn-perl
+
+Summary:
+  Upgrading: 0, Installing: 270, Removing: 0, Not Upgrading: 0
+  Download size: 216 MB / 240 MB
+  Space needed: 941 MB / 58.6 GB available
+
+Continue? [Y/n] yy
+
+[33m13% [Working][0m             Get:1 http://deb.debian.org/debian stable/main amd64 libllvm19 amd64 1:19.1.7-3+b1 [26.0 MB]
+[33m14% [1 libllvm19 2044 kB/26.0 MB 8%][0m[33m16% [1 libllvm19 7736 kB/26.0 MB 30%][0m[33m18% [1 libllvm19 13.5 MB/26.0 MB 52%][0m[33m20% [1 libllvm19 19.3 MB/26.0 MB 74%][0m[33m22% [1 libllvm19 25.1 MB/26.0 MB 97%][0m[33m                                     22% [Working][0m             Get:2 http://deb.debian.org/debian stable/main amd64 libx11-xcb1 amd64 2:1.8.12-1 [247 kB]
+[33m22% [2 libx11-xcb1 1364 B/247 kB 1%][0m[33m                                    22% [Waiting for headers][0m                         Get:3 http://deb.debian.org/debian stable/main amd64 libxcb-dri3-0 amd64 1.17.0-2+b1 [107 kB]
+[33m22% [3 libxcb-dri3-0 5890 B/107 kB 6%][0m[33m                                      22% [Waiting for headers][0m                         Get:4 http://deb.debian.org/debian stable/main amd64 libxcb-present0 amd64 1.17.0-2+b1 [106 kB]
+[33m22% [4 libxcb-present0 3339 B/106 kB 3%][0m[33m                                        23% [Waiting for headers][0m                         Get:5 http://deb.debian.org/debian stable/main amd64 libxcb-randr0 amd64 1.17.0-2+b1 [117 kB]
+[33m23% [5 libxcb-randr0 2068 B/117 kB 2%][0m[33m                                      23% [Waiting for headers][0m                         Get:6 http://deb.debian.org/debian stable/main amd64 libxcb-sync1 amd64 1.17.0-2+b1 [109 kB]
+[33m23% [6 libxcb-sync1 3234 B/109 kB 3%][0m[33m                                     23% [Waiting for headers][0m                         Get:7 http://deb.debian.org/debian stable/main amd64 libxcb-xfixes0 amd64 1.17.0-2+b1 [109 kB]
+[33m23% [7 libxcb-xfixes0 1615 B/109 kB 1%][0m[33m                                       23% [Waiting for headers][0m                         Get:8 http://deb.debian.org/debian stable/main amd64 libxshmfence1 amd64 1.3.3-1 [10.9 kB]
+[33m23% [8 libxshmfence1 2073 B/10.9 kB 19%][0m[33m                                        23% [Waiting for headers][0m                         Get:9 http://deb.debian.org/debian stable/main amd64 mesa-libgallium amd64 25.0.7-2 [9629 kB]
+[33m23% [9 mesa-libgallium 1331 B/9629 kB 0%][0m[33m25% [9 mesa-libgallium 5778 kB/9629 kB 60%][0m[33m                                           26% [Waiting for headers][0m                         Get:10 http://deb.debian.org/debian stable/main amd64 libgbm1 amd64 25.0.7-2 [44.4 kB]
+[33m26% [10 libgbm1 25.1 kB/44.4 kB 57%][0m[33m                                    26% [Waiting for headers][0m                         Get:11 http://deb.debian.org/debian stable/main amd64 libgraphite2-3 amd64 1.3.14-2+b1 [75.4 kB]
+[33m26% [11 libgraphite2-3 1784 B/75.4 kB 2%][0m[33m                                         26% [Waiting for headers][0m                         Get:12 http://deb.debian.org/debian stable/main amd64 libharfbuzz0b amd64 10.2.0-1+b1 [479 kB]
+[33m26% [12 libharfbuzz0b 2113 B/479 kB 0%][0m[33m                                       27% [Waiting for headers][0m                         Get:13 http://deb.debian.org/debian stable/main amd64 libharfbuzz-subset0 amd64 10.2.0-1+b1 [560 kB]
+[33m27% [13 libharfbuzz-subset0 3683 B/560 kB 1%][0m[33m                                             27% [Waiting for headers][0m                         Get:14 http://deb.debian.org/debian stable/main amd64 liblcms2-2 amd64 2.16-2 [160 kB]
+[33m27% [14 liblcms2-2 5137 B/160 kB 3%][0m[33m                                    27% [Waiting for headers][0m                         Get:15 http://deb.debian.org/debian stable/main amd64 libminizip1t64 amd64 1:1.3.dfsg+really1.3.1-1+b1 [53.3 kB]
+[33m27% [15 libminizip1t64 2938 B/53.3 kB 6%][0m[33m                                         27% [Waiting for headers][0m                         Get:16 http://deb.debian.org/debian stable/main amd64 libnspr4 amd64 2:4.36-1 [110 kB]
+[33m27% [16 libnspr4 2125 B/110 kB 2%][0m[33m                                  27% [Waiting for headers][0m                         Get:17 http://deb.debian.org/debian stable/main amd64 libnss3 amd64 2:3.110-1+deb13u1 [1395 kB]
+[33m27% [17 libnss3 2044 B/1395 kB 0%][0m[33m                                  28% [Waiting for headers][0m                         Get:18 http://deb.debian.org/debian stable/main amd64 libopenh264-8 amd64 2.6.0+dfsg-2 [395 kB]
+[33m28% [18 libopenh264-8 4858 B/395 kB 1%][0m[33m                                       28% [Waiting for headers][0m                         Get:19 http://deb.debian.org/debian stable/main amd64 libopenjp2-7 amd64 2.5.3-2.1~deb13u1 [205 kB]
+[33m28% [19 libopenjp2-7 4018 B/205 kB 2%][0m[33m                                      28% [Waiting for headers][0m                         Get:20 http://deb.debian.org/debian stable/main amd64 libopus0 amd64 1.5.2-2 [2852 kB]
+[33m28% [20 libopus0 3314 B/2852 kB 0%][0m[33m                                   29% [Waiting for headers][0m                         Get:21 http://deb.debian.org/debian stable/main amd64 fontconfig amd64 2.15.0-2.3 [463 kB]
+[33m29% [21 fontconfig 8072 B/463 kB 2%][0m[33m                                    29% [Waiting for headers][0m                         Get:22 http://deb.debian.org/debian stable/main amd64 libfribidi0 amd64 1.0.16-1 [26.5 kB]
+[33m29% [22 libfribidi0 3744 B/26.5 kB 14%][0m[33m                                       29% [Waiting for headers][0m                         Get:23 http://deb.debian.org/debian stable/main amd64 libthai-data all 0.1.29-2 [168 kB]
+[33m29% [23 libthai-data 1074 B/168 kB 1%][0m[33m                                      30% [Working][0m             Get:24 http://deb.debian.org/debian stable/main amd64 libdatrie1 amd64 0.2.13-3+b1 [38.1 kB]
+[33m30% [24 libdatrie1 3172 B/38.1 kB 8%][0m[33m                                     30% [Waiting for headers][0m                         Get:25 http://deb.debian.org/debian stable/main amd64 libthai0 amd64 0.1.29-2+b1 [49.4 kB]
+[33m30% [25 libthai0 1185 B/49.4 kB 2%][0m[33m                                   30% [Waiting for headers][0m                         Get:26 http://deb.debian.org/debian stable/main amd64 libpango-1.0-0 amd64 1.56.3-1 [226 kB]
+[33m30% [26 libpango-1.0-0 2912 B/226 kB 1%][0m[33m                                        30% [Working][0m             Get:27 http://deb.debian.org/debian stable/main amd64 libasyncns0 amd64 0.8-6+b5 [12.0 kB]
+[33m30% [27 libasyncns0 2111 B/12.0 kB 18%][0m[33m                                       30% [Waiting for headers][0m                         Get:28 http://deb.debian.org/debian stable/main amd64 libmp3lame0 amd64 3.100-6+b3 [363 kB]
+[33m30% [28 libmp3lame0 1672 B/363 kB 0%][0m[33m                                     30% [Working][0m             Get:29 http://deb.debian.org/debian stable/main amd64 libmpg123-0t64 amd64 1.32.10-1+deb13u1 [149 kB]
+[33m30% [29 libmpg123-0t64 3800 B/149 kB 3%][0m[33m                                        30% [Waiting for headers][0m                         Get:30 http://deb.debian.org/debian stable/main amd64 libvorbis0a amd64 1.3.7-3 [90.0 kB]
+[33m30% [30 libvorbis0a 2399 B/90.0 kB 3%][0m[33m                                      30% [Working][0m             Get:31 http://deb.debian.org/debian stable/main amd64 libvorbisenc2 amd64 1.3.7-3 [75.4 kB]
+[33m30% [31 libvorbisenc2 1780 B/75.4 kB 2%][0m[33m                                        31% [Working][0m             Get:32 http://deb.debian.org/debian stable/main amd64 libsndfile1 amd64 1.2.2-2+deb13u1 [199 kB]
+[33m31% [32 libsndfile1 605 B/199 kB 0%][0m[33m                                    31% [Waiting for headers][0m                         Get:33 http://deb.debian.org/debian stable/main amd64 libpulse0 amd64 17.0+dfsg1-2+b1 [276 kB]
+[33m31% [33 libpulse0 2540 B/276 kB 1%][0m[33m                                   31% [Waiting for headers][0m                         Get:34 http://deb.debian.org/debian stable/main amd64 libxcomposite1 amd64 1:0.4.6-1 [16.3 kB]
+[33m31% [34 libxcomposite1 4479 B/16.3 kB 27%][0m[33m                                          31% [Waiting for headers][0m                         Get:35 http://deb.debian.org/debian stable/main amd64 libxdamage1 amd64 1:1.1.6-1+b2 [15.5 kB]
+[33m31% [35 libxdamage1 871 B/15.5 kB 6%][0m[33m                                     31% [Waiting for headers][0m                         Get:36 http://deb.debian.org/debian stable/main amd64 libxfixes3 amd64 1:6.0.0-2+b4 [20.2 kB]
+[33m31% [36 libxfixes3 1094 B/20.2 kB 5%][0m[33m                                     31% [Waiting for headers][0m                         Get:37 http://deb.debian.org/debian stable/main amd64 xkb-data all 2.42-1 [790 kB]
+[33m31% [37 xkb-data 2003 B/790 kB 0%][0m[33m                                  31% [Waiting for headers][0m                         Get:38 http://deb.debian.org/debian stable/main amd64 libxkbcommon0 amd64 1.7.0-2 [113 kB]
+[33m31% [38 libxkbcommon0 5428 B/113 kB 5%][0m[33m                                       32% [Waiting for headers][0m                         Get:39 http://deb.debian.org/debian stable/main amd64 libxnvctrl0 amd64 535.171.04-1+b2 [14.2 kB]
+[33m32% [39 libxnvctrl0 2450 B/14.2 kB 17%][0m[33m                                       32% [Waiting for headers][0m                         Get:40 http://deb.debian.org/debian stable/main amd64 libxrandr2 amd64 2:1.5.4-1+b3 [36.3 kB]
+[33m32% [40 libxrandr2 1233 B/36.3 kB 3%][0m[33m                                     32% [Working][0m             Get:41 http://deb.debian.org/debian stable/main amd64 libcairo-gobject2 amd64 1.18.4-1+b1 [130 kB]
+[33m32% [41 libcairo-gobject2 3790 B/130 kB 3%][0m[33m                                           32% [Waiting for headers][0m                         Get:42 http://deb.debian.org/debian stable/main amd64 libcloudproviders0 amd64 0.3.6-2 [29.2 kB]
+[33m32% [42 libcloudproviders0 3765 B/29.2 kB 13%][0m[33m                                              32% [Waiting for headers][0m                         Get:43 http://deb.debian.org/debian stable/main amd64 libcolord2 amd64 1.4.7-3 [139 kB]
+[33m32% [43 libcolord2 2492 B/139 kB 2%][0m[33m                                    32% [Working][0m             Get:44 http://deb.debian.org/debian stable/main amd64 libepoxy0 amd64 1.5.10-2 [193 kB]
+[33m32% [44 libepoxy0 3091 B/193 kB 2%][0m[33m                                   32% [Waiting for headers][0m                         Get:45 http://deb.debian.org/debian stable/main amd64 libpangoft2-1.0-0 amd64 1.56.3-1 [55.6 kB]
+[33m32% [45 libpangoft2-1.0-0 3288 B/55.6 kB 6%][0m[33m                                            32% [Working][0m             Get:46 http://deb.debian.org/debian stable/main amd64 libpangocairo-1.0-0 amd64 1.56.3-1 [35.7 kB]
+[33m32% [46 libpangocairo-1.0-0 2909 B/35.7 kB 8%][0m[33m                                              32% [Waiting for headers][0m                         Get:47 http://deb.debian.org/debian stable/main amd64 libwayland-client0 amd64 1.23.1-3 [26.8 kB]
+[33m32% [47 libwayland-client0 1725 B/26.8 kB 6%][0m[33m                                             32% [Waiting for headers][0m                         Get:48 http://deb.debian.org/debian stable/main amd64 libwayland-cursor0 amd64 1.23.1-3 [11.9 kB]
+[33m32% [48 libwayland-cursor0 1290 B/11.9 kB 11%][0m[33m                                              32% [Waiting for headers][0m                         Get:49 http://deb.debian.org/debian stable/main amd64 libwayland-egl1 amd64 1.23.1-3 [5860 B]
+[33m32% [49 libwayland-egl1 925 B/5860 B 16%][0m[33m                                         33% [Waiting for headers][0m                         Get:50 http://deb.debian.org/debian stable/main amd64 libxcursor1 amd64 1:1.2.3-1 [39.7 kB]
+[33m33% [50 libxcursor1 1201 B/39.7 kB 3%][0m[33m                                      33% [Waiting for headers][0m                         Get:51 http://deb.debian.org/debian stable/main amd64 libxinerama1 amd64 2:1.1.4-3+b4 [16.0 kB]
+[33m33% [51 libxinerama1 3070 B/16.0 kB 19%][0m[33m                                        33% [Working][0m             Get:52 http://deb.debian.org/debian stable/main amd64 libgtk-3-common all 3.24.49-3 [4908 kB]
+[33m33% [52 libgtk-3-common 0 B/4908 kB 0%][0m[33m                                       34% [Waiting for headers][0m                         Get:53 http://deb.debian.org/debian stable/main amd64 libgtk-3-0t64 amd64 3.24.49-3 [2769 kB]
+[33m34% [53 libgtk-3-0t64 15.0 kB/2769 kB 1%][0m[33m                                         35% [Waiting for headers][0m                         Get:54 http://deb.debian.org/debian stable/main amd64 libglvnd0 amd64 1.7.0-1+b2 [52.0 kB]
+[33m35% [54 libglvnd0 8977 B/52.0 kB 17%][0m[33m                                     36% [Waiting for headers][0m                         Get:55 http://deb.debian.org/debian stable/main amd64 libxcb-glx0 amd64 1.17.0-2+b1 [122 kB]
+[33m36% [55 libxcb-glx0 2710 B/122 kB 2%][0m[33m                                     36% [Waiting for headers][0m                         Get:56 http://deb.debian.org/debian stable/main amd64 libxxf86vm1 amd64 1:1.1.4-1+b4 [19.3 kB]
+[33m36% [56 libxxf86vm1 2185 B/19.3 kB 11%][0m[33m                                       36% [Waiting for headers][0m                         Get:57 http://deb.debian.org/debian stable/main amd64 libvulkan1 amd64 1.4.309.0-1 [130 kB]
+[33m36% [57 libvulkan1 1276 B/130 kB 1%][0m[33m                                    36% [Waiting for headers][0m                         Get:58 http://deb.debian.org/debian stable/main amd64 libgl1-mesa-dri amd64 25.0.7-2 [46.1 kB]
+[33m36% [58 libgl1-mesa-dri 4139 B/46.1 kB 9%][0m[33m                                          36% [Waiting for headers][0m                         Get:59 http://deb.debian.org/debian stable/main amd64 libglx-mesa0 amd64 25.0.7-2 [143 kB]
+[33m36% [59 libglx-mesa0 2172 B/143 kB 2%][0m[33m                                      36% [Waiting for headers][0m                         Get:60 http://deb.debian.org/debian stable/main amd64 libglx0 amd64 1.7.0-1+b2 [34.9 kB]
+[33m36% [60 libglx0 1862 B/34.9 kB 5%][0m[33m                                  36% [Working][0m             Get:61 http://deb.debian.org/debian stable/main amd64 libgl1 amd64 1.7.0-1+b2 [89.5 kB]
+[33m36% [61 libgl1 1749 B/89.5 kB 2%][0m[33m                                 36% [Waiting for headers][0m                         Get:62 http://deb.debian.org/debian stable/main amd64 libice6 amd64 2:1.1.1-1 [65.4 kB]
+[33m36% [62 libice6 2949 B/65.4 kB 5%][0m[33m                                  36% [Working][0m             Get:63 http://deb.debian.org/debian stable/main amd64 libsm6 amd64 2:1.2.6-1 [37.3 kB]
+[33m36% [63 libsm6 994 B/37.3 kB 3%][0m[33m                                36% [Waiting for headers][0m                         Get:64 http://deb.debian.org/debian stable/main amd64 libxt6t64 amd64 1:1.2.1-1.2+b2 [188 kB]
+[33m36% [64 libxt6t64 675 B/188 kB 0%][0m[33m                                  37% [Waiting for headers][0m                         Get:65 http://deb.debian.org/debian stable/main amd64 libxmu6 amd64 2:1.1.3-3+b4 [59.0 kB]
+[33m37% [65 libxmu6 2721 B/59.0 kB 5%][0m[33m                                  37% [Waiting for headers][0m                         Get:66 http://deb.debian.org/debian stable/main amd64 libxpm4 amd64 1:3.5.17-1+b3 [56.2 kB]
+[33m37% [66 libxpm4 1717 B/56.2 kB 3%][0m[33m                                  37% [Waiting for headers][0m                         Get:67 http://deb.debian.org/debian stable/main amd64 libxaw7 amd64 2:1.0.16-1 [212 kB]
+[33m37% [67 libxaw7 2098 B/212 kB 1%][0m[33m                                 37% [Waiting for headers][0m                         Get:68 http://deb.debian.org/debian stable/main amd64 libxcb-shape0 amd64 1.17.0-2+b1 [106 kB]
+[33m37% [68 libxcb-shape0 2346 B/106 kB 2%][0m[33m                                       37% [Working][0m             Get:69 http://deb.debian.org/debian stable/main amd64 libxft2 amd64 2.3.6-1+b4 [54.5 kB]
+[33m37% [69 libxft2 2429 B/54.5 kB 4%][0m[33m                                  37% [Waiting for headers][0m                         Get:70 http://deb.debian.org/debian stable/main amd64 libxkbfile1 amd64 1:1.1.0-1+b4 [76.5 kB]
+[33m37% [70 libxkbfile1 1787 B/76.5 kB 2%][0m[33m                                      37% [Waiting for headers][0m                         Get:71 http://deb.debian.org/debian stable/main amd64 libxv1 amd64 2:1.0.11-1.1+b3 [23.4 kB]
+[33m37% [71 libxv1 2333 B/23.4 kB 10%][0m[33m                                  37% [Waiting for headers][0m                         Get:72 http://deb.debian.org/debian stable/main amd64 libxxf86dga1 amd64 2:1.1.5-1+b3 [20.8 kB]
+[33m37% [72 libxxf86dga1 1257 B/20.8 kB 6%][0m[33m                                       37% [Waiting for headers][0m                         Get:73 http://deb.debian.org/debian stable/main amd64 x11-utils amd64 7.7+7 [182 kB]
+[33m37% [73 x11-utils 1565 B/182 kB 1%][0m[33m                                   38% [Waiting for headers][0m                         Get:74 http://deb.debian.org/debian stable/main amd64 xdg-utils all 1.2.1-2 [75.8 kB]
+[33m38% [74 xdg-utils 2134 B/75.8 kB 3%][0m[33m                                    38% [Waiting for headers][0m                         Get:75 http://deb.debian.org/debian stable/main amd64 chromium-common amd64 145.0.7632.159-1~deb13u1 [23.2 MB]
+[33m38% [75 chromium-common 0 B/23.2 MB 0%][0m[33m40% [75 chromium-common 5774 kB/23.2 MB 25%][0m[33m41% [75 chromium-common 11.6 MB/23.2 MB 50%][0m[33m43% [75 chromium-common 17.3 MB/23.2 MB 75%]                       15.5 MB/s 9s[0m[33m45% [75 chromium-common 23.1 MB/23.2 MB 100%]                      15.5 MB/s 8s[0m[33m45% [Waiting for headers]                                          15.5 MB/s 8s[0m                                                                               Get:76 http://deb.debian.org/debian stable/main amd64 chromium amd64 145.0.7632.159-1~deb13u1 [81.9 MB]
+[33m45% [76 chromium 5456 B/81.9 MB 0%]                                15.5 MB/s 8s[0m[33m47% [76 chromium 5787 kB/81.9 MB 7%]                               15.5 MB/s 8s[0m[33m49% [76 chromium 11.6 MB/81.9 MB 14%]                              15.5 MB/s 8s[0m[33m51% [76 chromium 17.4 MB/81.9 MB 21%]                              15.5 MB/s 7s[0m[33m53% [76 chromium 23.1 MB/81.9 MB 28%]                              15.5 MB/s 7s[0m[33m55% [76 chromium 28.9 MB/81.9 MB 35%]                              15.5 MB/s 6s[0m[33m57% [76 chromium 34.7 MB/81.9 MB 42%]                              15.5 MB/s 6s[0m[33m59% [76 chromium 40.4 MB/81.9 MB 49%]                              15.5 MB/s 6s[0m[33m61% [76 chromium 46.2 MB/81.9 MB 56%]                              15.5 MB/s 5s[0m[33m63% [76 chromium 52.0 MB/81.9 MB 63%]                              15.5 MB/s 5s[0m^C
+[?2004hroot@yufs:~# [0;1;31mFailed to resolve path /home/yumeko/yuasdpot/yufs: No such file or directory[0m
+["-D", "/home/yumeko/yupot/yufs"]
+[0;1;31mDirectory /home/yumeko/yupot doesn't look like it has an OS tree (/usr/ directory is missing). Refusing.[0m
+["-D", "/home/yumeko/yupot/yufs"]
+[0;1;31mDirectory /home/yumeko/yupot doesn't look like it has an OS tree (/usr/ directory is missing). Refusing.[0m
+["-q", "-D", "/home/yumeko/yupot/yufs"]
+[0;1;31mFailed to resolve path /home/yumeko/yupot/yufs: No such file or directory[0m
+["-q", "-D", "/home/yumeko/Documents/yufs"]
+░ [0;38:5:245mSpawning container yufs on ]8;;file://weegee/home/yumeko/Documents/yufs\/home/yumeko/Documents/yufs]8;;\.[0m
+░ [0;38:5:245mPress [0;1;39mCtrl-][0;38:5:245m three times within 1s to kill container; two times followed by [0;1;39mr[0m
+░ [0;38:5:245mto reboot container; two times followed by [0;1;39mp[0;38:5:245m to poweroff container.[0m
+]3008;start=2f692a3e421f4973bfd69599d7895614;user=root;hostname=weegee;machineid=0a0b157790b04a5bbf3e9bd3b03559d0;bootid=d4ef17f3115e4de08591230bedebe226;pid=20490;pidfdid=20491;comm=-q;container=yufs;type=container\]11;?\[22;2t]2;🔵 Container yufs on weegee\[?2004hroot@yufs:~# 

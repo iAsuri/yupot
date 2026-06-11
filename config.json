@@ -1,0 +1,16 @@
+{
+    "telnetports": [
+        23,
+        34
+    ],
+    "sshports": [
+        32
+    ],
+    
+    "bin": "systemd-nspawn",
+    "args": [
+        "-q",
+        "-D",
+        "/home/yumeko/Documents/yufs"
+    ]
+}
